@@ -4,6 +4,8 @@
 보스가 나중에 “IR 작업하자”, “CDR IR 이어서”, “Bento IR 업데이트”라고 하면 이 파일을 먼저 읽고 이어간다.
 
 ## 주요 파일
+- GitHub private repo: `https://github.com/i073073/cdr-ir`
+- 로컬 Git repo: `/home/termi/work/cdr-ir-repository`
 - 최신 Bento IR: `/mnt/c/Users/USER/Downloads/CDR_System_IR_v4_product_videos.bento.html`
 - 직전 일관 시나리오본: `/mnt/c/Users/USER/Downloads/CDR_System_IR_v3_consistent_story.bento.html`
 - 직전 자료반영본: `/mnt/c/Users/USER/Downloads/CDR_System_IR_v2_pdf_reflected.bento.html`
@@ -33,6 +35,7 @@
 - Bento JSON 파싱 검증 완료: `format=bento/slides`
 - 구성 원칙: v1 홈페이지 기반 내러티브를 메인으로, v2 PDF의 회사 히스토리/검증 지표는 보조 근거로만 사용.
 - v4 변경: 제품별 홈페이지 원본 MP4를 링크형 Bento `media` 요소로 삽입. 큰 영상은 파일에 임베드하지 않음.
+- GitHub 업로드: private repo `i073073/cdr-ir`, initial commit `474c08c51b98119096a97741838547d485aa1faf`.
 
 ## v3 슬라이드 구성
 1. Cover — Customized Robot Services for Real Industry
