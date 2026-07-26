@@ -1,0 +1,761 @@
+
+
+## Page 1
+
+㈜씨디알시스템
+대표 안 기 탁
+우리는 Robot을 만들지 않는다.
+고객을 위한 Robot Service를 Creation하여 Sales한다.
+
+
+
+## Page 2
+
+I. 기업개요 및 현황
+III. Biz Model 
+1. RwRP + 디지털 트윈 + 로봇 교육
+2. 교육 사업 → 플랫폼 사업 
+3. 향후 추진계획
+1. 사업 로드맵
+ 2. 투자유치 계획
+IV. 사업 로드맵 및 
+투자유치 계획
+V. 기타사항
+1. RwRP (Robot with Real Programming)
+2. CDR (Customized Designed Robot)
+3. CRC (Customized Robot Café) 
+4. CSR (Customized Service Robot) 
+II. 보유기술  
+1. 개요 및 연혁
+ 2. 조직 및 직원 현황
+ 3. IR 동기 및 배경
+목 차
+Contents
+
+
+
+## Page 3
+
+기업개요 및 현황
+3
+㈜씨디알시스템은 2025년 기준 창업 5년차인, 고객이 원하는 로봇 서비스를 제공하는 로봇 전문기업(로봇SI) 입니다.
+우리의 모든 제품과 서비스에는 C가 들어갑니다. C는 “Customized”이며, 
+우리는 고객의 현장(Needs)을 가장 잘 이해하고, 고객에게 최선의 로봇 서비스(솔루션)를 제공하는 회사입니다. 
+⚫회사명
+㈜씨디알시스템
+⚫대표이사
+안 기 탁
+⚫자본금
+2.12억원 
+⚫소재지
+경기도 화성시 동탄역로 160, KAIST·화성시 사이언스허브 108호
+⚫직원수
+10명
+⚫설립일
+2020년 11월 03일
+⚫주요 상품
+직훈급 로봇교육 콘텐츠, F&B 시스템, AI모바일로봇
+우리는 Robot을 만들지 않는다, 고객을 위한 Robot Service를 Creation하여 Sales한다.
+개요 및 연혁
+“
+”
+
+
+
+## Page 4
+
+기업개요 및 현황
+4
+로봇시장의새로운패러다임: 로봇제조⇒로봇사용의시대!!!
+로봇을개발하고제조하는것보다, 이제는로봇을어떻게효과적으로활용할것인가가더중요한시대
+1980년대컴퓨터가복잡한메인프레임에서누구나사용할수있는PC로전환된것과같은혁신적변화시도중
+우리의미션: Make Robots Easier to Use!!!
+우리는로봇SI(Service Integration) 전문기업으로서,
+로봇을직접제조하지않고고객의필요(Needs)에맞는최적의로봇서비스를설계/구현/제공
+우리의핵심가치: 로봇을누구나쉽게활용할수있도록만드는것!!!
+우리의역할
+고객이로봇도입을주저하는요소(문제점) 해결
+높은초기투자비용, 로봇(서비스)에대한이해부족, 유지보수…
+시장의기회
+다양한산업현장에최적화된로봇솔루션제공
+AI 기반맞춤형서비스로고객의생산성과효율성향상
+로봇도입장벽을낮추어중소기업도쉽게로봇자동화구현가능
+로봇교육을통한글로벌시장진출시도
+개요 및 연혁
+Make Robots Easier to Use!
+
+
+
+## Page 5
+
+기업개요 및 현황
+5
+⚫ 연 혁
+개요 및 연혁
+초격차 스타트업 +1000(DIPS) 선정 
+글로벌 협업 프로그램 선정 (NVIDIA N-up)
+디지털 트윈 기반 로봇훈련 시스템 해외 진출 시작
+본사이전/공장 등록, 매출 9.8억
+벤처기업인정, 신용보증 혁신 스타트업 성장지원 프로그램 선정
+매출 10.3억
+로봇 바리스터 시스템 사업, 협동로봇 교육 매출 5.8억
+포항사무실 개소. 기업부설연구소 설립/인정, 서울사무소 오픈
+㈜씨디알시스템 법인 설립
+자산확보 (협동로봇 시스템, 딥러닝 비전 시스템)
+2025
+2024
+2023
+2022
+2021
+2020.11
+태동기
+(2020)
+성장 도약
+(2024~)
+
+
+
+## Page 6
+
+기업개요 및 현황
+6
+조직 및 직원 현황
+안기탁 대표이사
+•
+前 ㈜뉴로메카 COO 부사장
+•
+前 ㈜케이앤알시스템 이사
+•
+KIRO, 포항지능로봇연구소
+•
+POSCO, PosTech 기계공학 석사
+이규훈 이사(기술 총괄)
+•
+前 ㈜아이로브 연구소장
+•
+前 ㈜코보시스 개발이사
+•
+삼성전자, LIG Nex1 외 연구개발 수행
+•
+성균관대학교 기계공학 석사
+이종훈 이사 (영업 / 기획 총괄
+•
+前 ㈜유클릭 상무(신규사업부문)
+•
+前 쌍용정보통신 외 IT기업 영업/기획
+•
+Oracle Sales Specialist
+•
+공공/군 영업 전문
+대표 외 9명
+대표이사: 안기탁
+감사
+경영
+기획/영업
+개발
+R&D
+서울사무소
+동탄
+본사, 공장
+포항
+기술연구소
+
+
+
+## Page 7
+
+기업개요 및 현황
+7
+IR 동기 및 배경
+시장 증명을 거쳐 글로벌 진출 단계 ⇒ 투자 포함 BM 완성을 위한 파트너 필요
+“
+”
+초기창업패키지
+(2022년)
+디딤돌
+(2023년)
+N(NVIDIA)-Up
+(2024년)
+초격차(DIPS)
+(2025년)
+RwRP
+(Robot w.Real Programming)
+공정
+Time for 시리즈A
+연매출 10억
+Base
+연매출
+100억대로
+시간 장소
+제조사 독립적!
+Roadmap
+
+
+
+## Page 8
+
+보유 기술
+8
+1. RwRP (Robot with Real Programming)
+핵심기술
+- 이기종다수다관절로봇직접프로그래밍기술
+- 실제로봇공정그대로시뮬레이터모델을사용하는로봇프로그래밍
+- 다양한공정에서이기종다수로봇의시뮬레이션구축⇒디지털트윈콘텐츠확장
+- 디지털트윈기반로봇시뮬레이션, 직관적프로그래밍UI 기술확보
+실제물리환경과동일한3D 가상공간에서로봇을프로그래밍하고시뮬레이션가능
+초보자도이해할수있는비주얼기반노드그래프방식의UI 제공
+고가의실습장비없이노트북만으로원격으로실제공정과100% 똑같은환경의실습가능
+- 특허등록10-2426456 협동로봇을위한티칭방법및기기(2022. 7. 25) : 국내출원1건, 해외출원2건진행중
+K-기관 물품분류(컨베이어) 공정
+K대 FMS 공정
+K대 3종 로봇운용 카페 모델
+제본 공정 모델
+RwRP 원리 (기본 개념도)
+
+
+
+## Page 9
+
+보유 기술
+9
+1. RwRP (Robot with Real Programming)
+NVIDIA Digital Twin : Omniverse 생태계진입⇒Isaac SIM, IsaacLAB 한국로봇, 중국로봇이식
+- 2024년글로벌사업확장을위한NVIDIA 협업프로그램(N-Up) 선정
+
+
+
+## Page 10
+
+보유 기술
+10
+1. RwRP (Robot with Real Programming)
+RwRP 향후계획: 시뮬레이션→디지털트윈→AI
+Real
+SIM
+Ethernet
+Ether CAT
+MQTT
+Modu-Bus
+BLE
+Robot
+PLC
+IoT
+Sensor
+…
+초기RwRP
+일부기능만연결/SIM 구현
+24년RwRP
+기존RwRP + NVIDIA
+미래RwRP
+NVIDIA 중심의SIM
+HW
+Omniverse
+Issac
+알고리즘학습/로봇모션플래닝
+로봇Teaching →Teaching less
+* RMS : RobotManagement System
+* G/W: Gateway
+…
+Middle Ware
+RMS
+(or APi G/W)
+통
+신
+RWRP
+강남로봇플러스필드
+실증(Real)
+
+
+
+## Page 11
+
+보유 기술
+11
+2. CDR (Customized Designed Robot)
+핵심기술
+- 고객의필요(Needs)에따른맞춤형로봇서비스를설계/구현/제공
+- 범용로봇제어및인터페이스통합으로고객맞춤형로봇설계역량보유
+다양한로봇브랜드와연동가능한제어아키텍처설계및직관적인UI 제공
+하드웨어부터소프트웨어까지고객요청에맞춘설계
+고객이직접커스텀, 개선할수있는교육시스템겸비
+- SI(시스템통합) 컨설팅역량내재화
+단순납품이아닌, 공정최적화관점에서로봇도입전반을컨설팅
+고객의작업환경과인력수준까지고려한통합솔루션제공
+- 인쇄물제본용로봇시스템및이의인쇄물이송방법외10건특허출원중
+출판인쇄 자동화기술 개발
+이기종 로봇 연동
+협동로봇+산업용로봇
+스마트팩토리 6개 공정 구현
+
+
+
+## Page 12
+
+보유 기술
+12
+3. CRC (Customized Robot Café)
+핵심기술
+- F&B/Food Tech 로봇서비스: 로봇카페, 라면로봇, 생맥주로봇
+- 로봇+ F&B 관련다양한장비들과통신연결및Management 기술확보보유(RMS 자체개발)
+커피머신, 조리기구, 디스펜서, 각인기…
+- 디지털트윈을이용한로봇티칭을통하여, 최적의로봇서비스기술구현
+예) 아이스아메리카노1잔52초→40초→24초단축
+- IoT 기술기반F&B 자동화기술적용으로매장운영효율극대화
+RMS(Robot Management System)를통하여POS 등기간계연결, 다양한서비스확장가능
+키오스크가아닌QR-Code 주문시스템자체개발/적용
+하드웨어업그레이드불필요및비대면주문편의성증대
+- 로봇카페시스템외2건특허출원중
+로봇카페+라면로봇
+로봇 카페
+맥주 로봇
+QR-Code 주문 시스템
+키오스크가 아닌 
+스마트폰 기반 주문/결제 시스템
+
+
+
+## Page 13
+
+보유 기술
+13
+3. CRC (Customized Robot Café)
+SDR(Software Defined Robot) 전환을위한차세대로봇공용플랫폼기술개발사업참여(‘24~’27) 
+- 식음료(F&B) 개발및실증
+
+
+
+## Page 14
+
+Biz Model
+14
+1. RwRP + 디지털 트윈 + 로봇 교육 
+RwRP →디지털트윈기반로봇교육
+- 물리적로봇으로교육을하는것이아닌, 시뮬레이션을통한로봇교육
+- 실제로봇공정그대로의시뮬레이터모델을사용하는로봇프로그래밍및교육
+- 실물구축1/10 비용으로, 1인1로봇교육가능
+- 시뮬레이션기반, 로봇교육공정개발과확대
+Peak & Place 4개공정, 로봇카페3개공정, H대공정교육3개공정, Keo 물품분류(컨베이어)외5종…
+더많은로봇, 더많은공정, 더저렴하고쉽게!!!
+NVIDIA Omniverse로!!!
+- 로봇실무교육브랜드구축: CoboticLAB 도메인확보완료
+- 교육과정및강의교재개발/판매(나라장터조달품목등록)
+- 향후로봇활용공정개선솔루션거래플랫폼(Web & App 기반)으로발전
+개발된 교육 과정
+CoboticLAB 도메인
+
+
+
+## Page 15
+
+Biz Model
+15
+1. RwRP + 디지털 트윈 + 로봇 교육 
+순번
+유통채널명
+판매내용
+진출시기
+판매금액
+1
+대학교
+RTRS (2건-1세트)
+2021년
+40백만원
+2
+연구소
+POC (1건-1세트)
+2022년
+120백만원
+3
+대학교
+RwRP제안(3건-25세트)
+2023년
+400백만원
+4
+대학교
+공정교육용로봇시스템
+2024년
+180백만원
+5
+협회
+RwRP 교육
+2024년
+25백만원
+차별성
+- 3년간시장에서증명
+- 누적매출약5.6억원달성(’22년~’24년)
+
+
+
+## Page 16
+
+Biz Model
+16
+1. RwRP + 디지털 트윈 + 로봇 교육 
+차별성
+- 글로벌진출
+동남아시장: 직훈급전문가교육&컨설팅사업자와파트너쉽(2024년) – 싱가폴소재SG Expert社
+로봇교육컨텐츠제공(SW) 및RwRP 실습센터구축(HW)
+연간12,000 Pax 추정: Benefit Share 로온라인교육만12억대고정매출예상
+‘Study tour to Korea’ 추진중
+ODA 사업을통한로봇교육사업협의중: 베트남
+** 국내파트너: 한국공학대학교, 한국기술교육대학교
+2023년 한-아세안 로봇 교류회
+글로벌 진출 시작
+연간 12,000 Pax 추정 
+CODE 
+Course 
+Contents 
+Structure 
+CB101 
+Collaborative 
+Robot Basics 
+ Robot composition and application areas 
+E, O 
+ Robot operation (robot operation and teaching 
+pendant, coordinate system, TCP) 
+ Basics of Robot Programming (Menu Setting, 
+Basic Commands, Programming Practice) 
+ Robot Maintenance and Safety Regulations 
+CB102 
+Introduction to 
+vision 
+applications 
+ Introduction to vision-based applications 
+E, O 
+CB201 
+Essential 
+concepts for 
+robot 
+application 1 
+ What is a coordinate system transformation? 
+E, O 
+ Understanding TCP and TCP-Based Teaching 
+ Basic Trajectory Generation and External Input 
+Trajectory Application 
+CB301 
+Essential 
+concepts for 
+robot 
+application 2 
+ Calibration 
+ 
+E, O 
+ Tool selection and fabrication 
+CP101 
+Basic Controls 
+ Robot operation practice (using teaching pendant) 
+ 
+O 
+ Collaborative robot settings (direct teaching, 
+force control settings, etc.) 
+O 
+CP201 
+Advanced 
+Programming 
+ Scripts, variables, functions, data formats, etc. 
+O 
+ In-depth programming practice using program 
+syntax and educational equipment 
+O 
+AB101 
+비전 일반 
+ Understanding 3D Vision Data 
+ Vision Sensor Programming  
+ Recognizing specific objects by learning 
+ Robot location information and coordinate 
+delivery 
+E, O 
+AB201 
+CPS 
+ Process Simulation with Robots 
+E, O 
+AP101 
+Vision 
+Application 
+Fundamentals 
+ Pick-and-place based on 2D vision 
+E, O 
+AP201 
+In-depth 
+Vision 
+Application 
+ 3D Vision Bin Picking 
+E, O 
+AP301 
+Process Practice 
+-Parts 
+Assembly 
+ Understand the composition and characteristics of 
+a parts assembly system using collaborative 
+robots 
+O, C 
+ Interworking between the robot and major 
+peripherals and preparing for work 
+ Parts assembly using collaborative robots → 
+packaging process practice 
+AP302 
+Process Practice 
+-
+Packaging/Tran
+sfer Loading 
+ Understanding the composition and 
+characteristics of collaborative robot 
+packaging/loading system  
+O, C 
+ Packaging → inspection→palletizing process 
+practice 
+영문 버전 교육 과정 및 교재 제작 시작
+
+
+
+## Page 17
+
+Biz Model
+17
+2. 교육 사업  →  플랫폼 사업 
+로봇시장은새로운로봇을만드는것보다는, 어떻게로봇을사용할수있을지가더중요한시대!!!
+교육사업의기술과경험을토대로“플랫폼사업”으로확장
+고객이원하는주문생산형로봇서비스공급
+NVIDIA Korea
+Digital Twin 전문 파트너 
+(추진 중) 
+포항수제맥주
+로봇부스
+로봇카페 + QR-Code주문/결제
+배관청소로봇
+볶음로봇                           튀김로봇                         야채절단기로봇 
+인쇄물 재단 자동화                                  인쇄물 제본 자동화
+F&B
+스마트팩토리(출판/인쇄)
+
+
+
+## Page 18
+
+Biz Model
+18
+3. 향후 추진계획
+독자적제품& 기술구축
+완제품별피벗, 개벌상품판매시작
+보유콘텐츠확장: 다양한공정+ 이기종다수로봇으로…
+
+
+
+## Page 19
+
+사업 로드맵 및 투자유치 계획
+19
+1. 사업 로드맵
+사업전체로드맵
+구분
+연차별성장목표
+정량적
+정성적
+2025년
+매출액
+14억원
+교육분야10set
+F&B 4set
+방역로봇20set
+정부R&D과제2건
+수출액
+억원
+시장점유율
+%
+상시종업원수
+9명
+2026년
+매출액
+25억원
+교육분야40set
+F&B 16set
+방역로봇100set
+정부R&D과제2건
+로봇공정거래플랫폼발표
+(coboticsLAB)
+수출액
+억원
+시장점유율
+%
+상시종업원수
+10명
+2027년
+매출액
+50억원
+교육분야210set
+F&B 40set
+방역로봇100set
+로봇공정거래플랫폼
+글로벌버전발표
+수출액
+억원
+시장점유율
+%
+상시종업원수
+12명
+시간 장소
+제조사 독립적!
+Roadmap
+RwRP
+(Robot w.Real Programming)
+공정
+
+
+
+## Page 20
+
+사업 로드맵 및 투자유치 계획
+20
+1. 사업 로드맵
+매출내역(예상)
+추정매출액
+1,420백만원
+비고
+품목별
+매출액
+품목명
+세부매출
+교육-RwRP
+100백만원
+F&B시스템
+300백만원
+모바일서비스로봇
+1,000백만원
+로봇공정공유플랫폼수익
+20백만원
+추정매출액
+2,520백만원
+비고
+품목별
+매출액
+품목명
+세부매출
+교육-RwRP
+300백만원
+수출개시
+F&B시스템
+600백만원
+프랜차이즈매장시범진출원년
+모바일서비스로봇
+1,500백만원
+방역외기능추가및서비스확장
+로봇공정공유플랫폼수익
+120백만원
+플랫폼본격가동,성장률500%
+추정매출액
+5,070백만원
+비고
+품목별
+매출액
+품목명
+세부매출
+교육-RwRP
+900백만원
+해외현지화
+F&B시스템
+1,200백만원
+커스터마이징모델추가
+모바일서비스로봇
+2,250백만원
+수출with 미국파트너쉽
+로봇공정공유플랫폼수익
+720백만원
+오프라인CoboticsLAB 연계
+- 2025년
+- 2026년
+- 2027년
+
+
+
+## Page 21
+
+사업 로드맵 및 투자유치 계획
+21
+2. 투자유지 계획
+외부투자유치현황
+- 2020년11월03일설립이후총3.9억원투자유치
+외부투자신규유치계획
+- 금액: 20억원
+- 내용: CoboticLAB 구성및사업자금확보
+- SI투자50% 이상목표/ pre 150억원
+순번
+투자처
+투자내용
+투자시기
+투자규모
+1
+개인
+보통주
+20.11
+20백만원
+2
+개인
+보통주
+21.12
+180백만원
+3
+개인
+보통주
+23.04
+50백만원
+4
+㈜프리비
+출판로봇시장판권확보
+23.07
+140백만원
+순번
+투자처
+투자내용
+투자시기
+투자규모
+1
+SI
+SI파트너, 보통주
+1,000백만원
+2
+VC
+시리즈A, 우선주
+1,000백만원
+27.06
+27.06
+
+
+
+## Page 22
+
+기타사항
+22
+(주)씨디알시스템 관계사 : ㈜에스에프로보틱스
+(주)에스에프로보틱스는2022년산학연협력기술창업법인육성사업선정으로법인설립하였습니다.
+설립기관은국내유일의정부산하로봇전문생산연구소인'한국로봇융합연구원'으로,
+필드로봇기술사업화를목적으로하고있으며, 핵심사업은“배관/수중/농업로봇” 개발및제조입니다.
+수중
+배관
+농업
+재난안전
+민간 기술이양 및 사업화 → Spin-Off!!!
+로봇활용 필드서비스 사업 선도
+로봇 R&D의 차별화 및 실용화
+→  세계 최고의 로봇 연구 기관
+㈜에스에프로보틱스 신기술창업전문회사
+제2022-04호 연구소기업 제1552호
+구분
+대표이사
+안기탁
+안기탁
+대주주
+안기탁
+KIRO, CDR System, 안기탁
+사업내용
+서비스+필드로봇벤쳐기업
+로봇SI 사업, 로봇교육…
+신기술창업전문회사
+배관/수중/농업로봇
+
+
+
+## Page 23
+
+23
+Q&A
+Thank You.
